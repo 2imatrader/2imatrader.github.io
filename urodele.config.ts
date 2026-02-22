@@ -7,7 +7,7 @@ export const config = {
   },
   head: {
     title: "2imatrader",
-    brand: "2imatrader ",
+    brand: "2imatrader",
     description: "Less is more",
   },
   footer: {
