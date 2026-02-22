@@ -1,18 +1,18 @@
 export const config = {
   github: {
-    login: "bluefigca", // github login name, not user name
-    repo: "bluefigca.github.io", //"urodele",
+    login: "2imatrader", // github login name, not user name
+    repo: "2imatrader.github.io", //"urodele",
     logInUrl: "",
     logInAuthUrl: "",
   },
   head: {
-    title: "bluefigca",
-    brand: "bluefigca ",
+    title: "2imatrader",
+    brand: "2imatrader ",
     description: "Less is more",
   },
   footer: {
-    copyright: "©  bluefigca  ·  since 2026    ·",
-    copyrightUrl: "https://bluefigca.github.io",
+    copyright: "©  2imatrader  ·  since 2026    ·",
+    copyrightUrl: "https://2imatrader.github.io",
   },
   pagination: {
     size: 10,
